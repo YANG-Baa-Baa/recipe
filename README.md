@@ -1,10 +1,7 @@
-# 
+#
 
-项目编号: 7568806142072586505
+本项目是由KKKKKnive完成
 
-本项目是由 [网站开发专家](https://space.coze.cn/) 创建.
-
-[**项目地址**](https://space.coze.cn/task/7568806142072586505)
 
 ## 本地开发
 
@@ -27,4 +24,3 @@ pnpm install
 pnpm run dev
 ```
 
-- 在浏览器访问 http://localhost:3000
